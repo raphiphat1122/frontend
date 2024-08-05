@@ -9,7 +9,7 @@ export default function Footer(){
               <h5>About</h5>
               <ul className="nav flex-column">
               <form>
-                <p class="text-body-secondary">This website is created to promote the anime bocchi the rock.</p>
+                <p class="text-body-secondary">เว็บไซต์สำหรับการออกแบบโมเดลบ้าน3มิติ</p>
               </form>
               </ul>
             </div>
