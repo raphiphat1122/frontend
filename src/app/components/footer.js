@@ -6,7 +6,7 @@ export default function Footer(){
         <footer className="py-5">
           <div className="row">
             <div className="col-6 col-md-3 mb-2">
-              <h5>About</h5>
+              <h5>Description</h5>
               <ul className="nav flex-column">
               <form>
                 <p class="text-body-secondary">เว็บไซต์สำหรับการออกแบบโมเดลบ้าน3มิติ</p>
@@ -17,7 +17,7 @@ export default function Footer(){
               <h5>Contact</h5>
               <ul className="nav flex-column">
               <form>
-                <p class="text-body-secondary">No : 0123456789 <br />Email : maoanime@eiei.com</p>
+                <p class="text-body-secondary">Phone : 0995713761 <br />Email : maoanime@eiei.com</p>
               </form>
               </ul>
             </div>
