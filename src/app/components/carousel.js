@@ -5,13 +5,13 @@ export default function Carousel(){
         <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
             <div className="carousel-item active" data-bs-interval="1500">
-            <img src="/assets/img/carousel1.png" layout="responsive" className="card-img-top" width={1602} height={1005} alt="..." />
+            <img src="/assets/img/carousel1.png" layout="responsive" className="card-img-top" width={1602} height={500} alt="..." />
             </div>
             <div className="carousel-item" data-bs-interval="1500">
-            <img src="/assets/img/carousel2.png" layout="responsive" className="card-img-top" width={1602} height={1005} alt="..." />
+            <img src="/assets/img/carousel2.png" layout="responsive" className="card-img-top" width={1602} height={500} alt="..." />
             </div>
             <div className="carousel-item" data-bs-interval="1500">
-            <img src="/assets/img/carousel3.png" layout="responsive" className="card-img-top" width={1602} height={1005} alt="..." />
+            <img src="/assets/img/carousel3.png" layout="responsive" className="card-img-top" width={1602} height={500} alt="..." />
             </div>
         </div>
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
