@@ -17,7 +17,7 @@ export default function Footer(){
               <h5>Contact</h5>
               <ul className="nav flex-column">
               <form>
-                <p class="text-body-secondary">Phone : 0995713761 <br />Email : maoanime@eiei.com</p>
+                <p class="text-body-secondary">Phone : 0995713761 <br />Email : akaoliroom.01.com</p>
               </form>
               </ul>
             </div>
